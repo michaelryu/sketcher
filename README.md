@@ -1,4 +1,4 @@
 sketcher
 ========
 
-Web Dev Training 2
+Web Dev Training 
